@@ -482,6 +482,9 @@ main{
 .home-link1{
     margin-top: 10px;
 }
+.home-link1:hover{
+    underline: none;
+}
 
 nav{
     padding:17px;
@@ -789,3 +792,4 @@ nav svg{
     }
     
 }
+
